@@ -23,4 +23,6 @@ To evaluate the model, run the cells under `Evaluation of the model` markdown ce
 
 This will also save the frames of the game played by the model in a gif file format, named `animation.gif` in the root directory.
 
+## Sample gameplay
+
 ![Sample Atari Breakout gameplay by Reinforcement Learning model - Tejus Vignesh Vijayakumar](https://github.com/tejus-vignesh/Dueling-Double-Deep-Q-Learning-Network-for-Atari-Breakout/blob/main/animation.gif?raw=true)
